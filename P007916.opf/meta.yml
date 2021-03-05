@@ -1,15 +1,16 @@
-id: opecha:P007916
+id: P007916
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ2730
   title: ལམ་རིམ་བླ་མ་བརྒྱུད་པའི་རྣམ་ཐར་
-  volume:
+  author: ''
+  volumes:
     125b879e58504ad9930ec01b2c18c529:
       image_group_id: I1CZ2734
       title: Volume 1 of lam rim bla ma brgyud pa'i rnam thar
       volume_number: 1
       total_pages: 940
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ལམ་རིམ་བླ་མ་བརྒྱུད་པའི་རྣམ་ཐར་
   author: ''
